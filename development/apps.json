@@ -1,10 +1,14 @@
 [
   {
-    "url": "https://github.com/castlecraft/cfe",
+    "url": "https://github.com/frappe/health",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/frappe/chat",
     "branch": "main"
   },
   {
-    "url": "https://github.com/castlecraft/microsoft_integration",
-    "branch": "main"
+    "url": "https://sultanbadmus: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@github.com/parallelscore/Lafia-WebApp-ERPNext-",
+    "branch": "sultan-patch"
   }
 ]
